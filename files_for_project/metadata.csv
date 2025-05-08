@@ -1,0 +1,33 @@
+plot_index,filename,viz_type,polarity,distribution,x_label,y_label
+0,bar_negative_ds0.png,bar,negative,Narrow,Category (Narrow),Value
+1,bar_negative_ds1.png,bar,negative,Moderate,Category (Narrow),Value
+2,bar_negative_ds2.png,bar,negative,Wide,Product Type,Sales
+3,bar_negative_ds3.png,bar,negative,Uniform,Product Type,Sales
+4,bar_positive_ds0.png,bar,positive,Narrow,Region,Population (k)
+5,bar_positive_ds1.png,bar,positive,Moderate,Region,Population (k)
+6,bar_positive_ds2.png,bar,positive,Wide,Session,Completion Time (s)
+7,bar_positive_ds3.png,bar,positive,Uniform,Session,Completion Time (s)
+8,histogram_negative_ds0.png,histogram,negative,Narrow,Score,Frequency
+9,histogram_negative_ds1.png,histogram,negative,Moderate,Score,Frequency
+10,histogram_negative_ds2.png,histogram,negative,Wide,Response Time (ms),Count
+11,histogram_negative_ds3.png,histogram,negative,Uniform,Response Time (ms),Count
+12,histogram_positive_ds0.png,histogram,positive,Narrow,Price ($),Number of Items
+13,histogram_positive_ds1.png,histogram,positive,Moderate,Price ($),Number of Items
+14,histogram_positive_ds2.png,histogram,positive,Wide,Errors,Errors
+15,histogram_positive_ds3.png,histogram,positive,Uniform,Errors,Errors
+16,line_negative_ds0.png,line,negative,Narrow,Time (days),Measurement
+17,line_negative_ds1.png,line,negative,Moderate,Time (days),Measurement
+18,line_negative_ds2.png,line,negative,Wide,Year,Revenue (M$)
+19,line_negative_ds3.png,line,negative,Uniform,Year,Revenue (M$)
+20,line_positive_ds0.png,line,positive,Narrow,Month,Rainfall (mm)
+21,line_positive_ds1.png,line,positive,Moderate,Month,Rainfall (mm)
+22,line_positive_ds2.png,line,positive,Wide,Distance (m),Distance (m)
+23,line_positive_ds3.png,line,positive,Uniform,Distance (m),Distance (m)
+24,scatter_negative_ds0.png,scatter,negative,Narrow,Height (cm),Weight (kg)
+25,scatter_negative_ds1.png,scatter,negative,Moderate,Height (cm),Weight (kg)
+26,scatter_negative_ds2.png,scatter,negative,Wide,Temperature (°C),Ice Cream Sales
+27,scatter_negative_ds3.png,scatter,negative,Uniform,Temperature (°C),Ice Cream Sales
+28,scatter_positive_ds0.png,scatter,positive,Narrow,Age,Income ($k)
+29,scatter_positive_ds1.png,scatter,positive,Moderate,Age,Income ($k)
+30,scatter_positive_ds2.png,scatter,positive,Wide,Speed (km/h),Speed (km/h)
+31,scatter_positive_ds3.png,scatter,positive,Uniform,Speed (km/h),Speed (km/h)

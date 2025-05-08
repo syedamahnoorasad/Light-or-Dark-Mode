@@ -1,0 +1,9 @@
+ID,Gender,Age,Education,Fam_Vis,Fam_Elec,Device,Pref,Vision,Accessibility
+1,F,24,College,5,5,Phone,Dark,Myopia,None
+2,F,28,College,5,5,Laptop,Dark,None,None
+3,F,20,HS,3,5,Phone,Light,None,None
+4,M,26,College,4,5,Laptop,Dark,None,None
+5,F,77,College,4,3,Laptop,Light,Hyperopia,None
+6,M,67,College,4,2,Phone,Light,Hyperopia,None
+7,F,56,HS,2,3,Phone,Dark,Hyperopia,None
+8,M,56,College,2,2,Phone,Light,Hyperopia,None
